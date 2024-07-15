@@ -1,1 +1,13 @@
-r
+# See https://github.com/JunwenGuo/GCT-Net
+# Citing GCT-Net
+If you find the GCT-Net code useful, please consider citing:
+
+```bibtex
+@inproceedings{guo2024gctnet,
+  author    = {Junwen Guo, Guobao Xiao*, Shiping Wang and Jun Yu},
+  title     = {Graph Context Transformation Learning for Progressive Correspondence Pruning},
+  booktitle = {Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI)},
+  year      = {2024},
+  pages     = {1968-1975}
+}
+```
